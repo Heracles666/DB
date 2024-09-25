@@ -1,0 +1,92 @@
+{
+    "Markers": [
+        {
+            "deleted": false,
+            "endDatetime": "2024-04-08T15:37:20.132053-06:00",
+            "extras": {
+            },
+            "index": 1,
+            "label": "Eyes Opened",
+            "originalEndDatetime": "2024-04-08T15:37:20.128150-06:00",
+            "originalStartDatetime": "2024-04-08T15:36:20.123698-06:00",
+            "port": "Baseline EmotivPRO",
+            "startDatetime": "2024-04-08T15:36:20.127329-06:00",
+            "type": "interval",
+            "uuid": "09ce3c17-a2c3-406f-8fff-0cb5efd56509",
+            "value": 1
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-04-08T15:38:25.143029-06:00",
+            "extras": {
+            },
+            "index": 2,
+            "label": "Eyes Closed",
+            "originalEndDatetime": "2024-04-08T15:38:25.142584-06:00",
+            "originalStartDatetime": "2024-04-08T15:37:25.138490-06:00",
+            "port": "Baseline EmotivPRO",
+            "startDatetime": "2024-04-08T15:37:25.138305-06:00",
+            "type": "interval",
+            "uuid": "83cffdbd-d626-4a08-a7bf-29ae5508a773",
+            "value": 3
+        }
+    ],
+    "connectionType": "bluetooth",
+    "demographics": {
+        "birthday": "1900-01-01",
+        "countryOfInfluence": {
+            "iso": "",
+            "printable": ""
+        },
+        "countryOfResidence": {
+            "iso": "",
+            "printable": ""
+        },
+        "gender": "U"
+    },
+    "exportApp": "com.emotiv.emotivpro",
+    "exportTime": "2024-04-08T15:51:34.258-06:00",
+    "eyeActions": {
+        "Blink": 10,
+        "Look Left": -1,
+        "Look Right": 1,
+        "Neutral": 0,
+        "Wink Left": 11,
+        "Wink Right": 12
+    },
+    "facialExpressionActions": {
+        "Blink": 2,
+        "Clench Teeth": 256,
+        "Furrow Brows": 64,
+        "Horizontal Eye": 16,
+        "Laugh": 512,
+        "Neutral": 1,
+        "Raise Brows": 32,
+        "Smile": 128,
+        "Smirk Left": 1024,
+        "Smirk Right": 2048,
+        "Wink Left": 4,
+        "Wink Right": 8
+    },
+    "headsetType": "INSIGHT2",
+    "mappings": null,
+    "mentalCommandActions": {
+        "Disappear": 8192,
+        "Drop": 16,
+        "Left": 32,
+        "Lift": 8,
+        "Neutral": 1,
+        "Pull": 4,
+        "Push": 2,
+        "Right": 64,
+        "Rotate Backward": 4096,
+        "Rotate Clockwise": 512,
+        "Rotate Counter-Clockwise": 1024,
+        "Rotate Forward": 2048,
+        "Rotate Left": 128,
+        "Rotate Right": 256
+    },
+    "montageType": "UNKNOWN",
+    "recordId": "f3b09994-e740-4891-8863-01c6570ab1c3",
+    "user": "alonso24"
+}
